@@ -1,6 +1,10 @@
 CKEditor 5 remove format feature
 ===========================
 
+<h3 align=center>⚠⚠ This repository was moved ⚠⚠</h3>
+
+<p align=center>The package was moved to the <a href="https://github.com/ckeditor/ckeditor5/tree/master/packages">main repository</a>.</p>
+
 [![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-remove-format.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-remove-format)
 [![Dependency Status](https://david-dm.org/ckeditor/ckeditor5-remove-format/status.svg)](https://david-dm.org/ckeditor/ckeditor5-remove-format)
 [![devDependency Status](https://david-dm.org/ckeditor/ckeditor5-remove-format/dev-status.svg)](https://david-dm.org/ckeditor/ckeditor5-remove-format?type=dev)
